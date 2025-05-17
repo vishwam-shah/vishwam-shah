@@ -19,7 +19,7 @@ Hello i'm passionate AI + FULL STACK WEB DEV + RESEARCHER<br>My skills are pytho
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vishwam-shah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishwam-shah&icon=0&color=0)](https://visitcount.itsvg.in)
