@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello i'm passionate AI + FULL STACK WEB DEV + RESEARCHER<br>My skills are python , tensorflow, pytorch, scikit-learn, Matplotlib, LLMs,  next/react, tailwindcss, api development, 
+Hello I'm Passionate AI + FULL STACK WEB DEV + RESEARCHER<br>My skills are python , tensorflow, pytorch, scikit-learn, Matplotlib, LLMs,  next/react, tailwindcss, api development, 
 
 
 ## 🌐 Socials:
